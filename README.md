@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Arjun Sharma Poudel
 ![](https://www.linkedin.com/in/arjunsharmapoudel/)
 
-Namaste, I am Arjun Sharma Poudel, Nepal, a skilled Web Developer, and PHP programmer with laravel framework specialist . I am a freelancer and a contract Web designer and Web Developer. I have a significant amount of experience in various web companies and have finished various projects. As a Web Developer, I have planned to devote my life to developing and maintaining websites and web-based tools for ethically-minded businesses, organizations and non-profit companies. I provide services in web design, web development, graphic design, and SEO too. 
+Namaste, I am Arjun Sharma Poudel, Nepal, a skilled Web Developer, and PHP programmer with laravel framework specialist . I am a freelancer and a contract Web designer and Web Developer. I have a significant amount of experience in various web companies and have finished various projects. As a Web Developer, I have planned to devote my life to developing and maintaining websites and web-based tools for ethically-minded businesses, organizations and non-profit companies. I provide services in web design, web development and SEO too. 
 
 Skills: Php / Laravel / Python / JS / HTML / CSS / Wordpress / Digital Marketing / SEO
 
@@ -14,10 +14,3 @@ Skills: Php / Laravel / Python / JS / HTML / CSS / Wordpress / Digital Marketing
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/arjun-whiteshadow)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/arjun-whiteshadow)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/arjun-whiteshadow)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/arjun-whiteshadow)  
