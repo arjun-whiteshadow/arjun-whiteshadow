@@ -2,7 +2,9 @@
 ![](https://www.linkedin.com/in/arjunsharmapoudel/)
 
 🔹 Seeking new opportunities in software engineering, AI, and data science
+
 🔹 Currently working as a Software Engineer with expertise in PHP and Python
+
 🔹 Passionate about leveraging technology to solve complex problems
 
 👨‍💻 About Me
