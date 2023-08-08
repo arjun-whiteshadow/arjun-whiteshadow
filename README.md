@@ -1,11 +1,14 @@
 ### Hi there 👋, my name is Arjun Sharma Poudel
 ![](https://www.linkedin.com/in/arjunsharmapoudel/)
 
-Namaste, I am Arjun Sharma Poudel, Nepal, a skilled Web Developer, and PHP programmer with laravel framework specialist . I am a freelancer and a contract Web designer and Web Developer. I have a significant amount of experience in various web companies and have finished various projects. As a Web Developer, I have planned to devote my life to developing and maintaining websites and web-based tools for ethically-minded businesses, organizations and non-profit companies. I provide services in web design, web development and SEO too. 
+🔹 Seeking new opportunities in software engineering, AI, and data science
+🔹 Currently working as a Software Engineer with expertise in PHP and Python
+🔹 Passionate about leveraging technology to solve complex problems
 
-Skills: Php / Laravel / Python / JS / HTML / CSS / Wordpress / Digital Marketing / SEO
+👨‍💻 About Me
+I am a dedicated and versatile software engineer with a strong background in computer science. My passion for cutting-edge technologies and curiosity about AI and data science drive me to constantly explore and learn new skills. With a solid foundation in PHP and Python, I excel at developing efficient and scalable software solutions.
 
-- 🔭 I’m currently working on Laravel 
+
 - 💬 Ask me about Web Technology  
 - 📫 How to reach me: here it is : 
 
