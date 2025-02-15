@@ -8,7 +8,7 @@
 🔹 Passionate about leveraging technology to solve complex problems
 
 👨‍💻 About Me
-I am a dedicated and versatile software engineer with a strong background in computer science. My passion for cutting-edge technologies and curiosity about AI and data science drive me to constantly explore and learn new skills. With a solid foundation in PHP and Python, I excel at developing efficient and scalable software solutions.
+I am a dedicated and versatile software engineer with a strong background in computer science. My passion for cutting-edge technologies and curiosity about AI and data science drive me to constantly explore and learn new skills. With a solid foundation in PHP, Python and Java, I excel at developing efficient and scalable software solutions.
 
 
 - 💬 Ask me about Web Technology  
