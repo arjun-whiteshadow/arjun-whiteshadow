@@ -3,7 +3,7 @@
 Software engineer turned nanoengineering researcher, applying machine learning to III–V semiconductor nanowire growth and characterization.
 
 📍 Greensboro, NC | 🎓 M.S. Nanoengineering, North Carolina A&T State University (JSNN) — May 2027  
-🔗 [LinkedIn](https://linkedin.com/in/arjunsharmapoudel)  · [Iyer Nano Lab](https://iyernanolab.org) · 📧 arjunsp2eng@gmail.com
+🔗 [LinkedIn](https://linkedin.com/in/arjunsharmapoudel)  · [Iyer Nano Lab](https://iyernanolab.org) · 
 
 ---
 
